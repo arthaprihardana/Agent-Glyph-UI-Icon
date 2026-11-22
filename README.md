@@ -10,5 +10,6 @@
 
 This repository includes **40 Free Lite SVG icons** (2 curated icons from every one of the 20 themes) ready to copy or clone into commercial projects.
 
-- **Free Lite ZIP (Gumroad):** https://5418582126609.gumroad.com/l/yrwls
-- **Full Pro v2 (1,000 Icons + 1,000 React TSX + 50 Animated States + Figma):** https://5418582126609.gumroad.com/l/aqhwe *(50% off early-bird with code `EARLY50`)*
+- **Live Interactive Explorer:** https://arthaprihardana.github.io/Agent-Glyph-UI-Icon/
+- **Free Lite ZIP (Gumroad):** https://5418582126609.gumroad.com/l/agentglyph-lite
+- **Full Pro v2 (1,000 Icons + 1,000 React TSX + 50 Animated States + Figma):** https://5418582126609.gumroad.com/l/agentglyph *(50% off early-bird with code `EARLY50`)*
